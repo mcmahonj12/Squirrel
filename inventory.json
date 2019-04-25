@@ -1,0 +1,28 @@
+{
+    "tenants": [
+        {
+            "orgName": "dumpster",
+            "orgEndpoint": {
+                "vcenter": [
+                    "vcenter-1.corp.local",
+                    "vcenter-2.corp.local"
+                ],
+                "nsxManager": [
+                    "nsxm-1.corp.local",
+                    "nsxm-2.corp.local"
+                ]
+            }
+        },
+        {
+            "orgName": "dumpster",
+            "orgEndpoint": {
+                "vcenter": [
+                    "vcenter-3.corp.local"
+                ],
+                "nsxManager": [
+                    "nsxm-3.corp.local"
+                ]
+            }
+        }
+    ]
+}
