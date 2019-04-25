@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        {
+            "tenantOrg": "dumpster",
+            "vcenter": {
+                "principals": [
+                    {
+                        "entity": "/",
+                        "principal": "CORP\\TrashPanda",
+                        "group": "true",
+                        "roleName": "CloudAdmin"
+                    }
+                ]
+            }
+        },
+        {
+            "tenantOrg": "fire",
+            "vcenter": {
+                "principals": [
+                    {
+                        "entity": "/",
+                        "principal": "CORP\\Backdraft",
+                        "group": "true",
+                        "roleName": "CloudAdmin"
+                    }
+                ]
+            }
+        }
+    ]
+}

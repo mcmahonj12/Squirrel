@@ -1,4 +1,0 @@
-global
-    opsRoles
-        roleName : DevOpsAdmin
-        rolePrivilege : virtualmachine.config.network
