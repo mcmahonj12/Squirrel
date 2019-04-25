@@ -1,0 +1,7 @@
+service
+    serviceRoles
+        roleName
+        rolePrivilege
+    customerRoles
+        roleName
+        rolePrivilege
