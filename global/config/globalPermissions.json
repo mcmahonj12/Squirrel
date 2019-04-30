@@ -1,0 +1,16 @@
+{
+    "permissions": [
+        {
+            "vcenter": {
+                "principals": [
+                    {
+                        "entity": "/",
+                        "principal": "CORP\\DevOpsAdmin",
+                        "group": "true",
+                        "roleName": "Administrator"
+                    }
+                ]
+            }
+        }
+    ]
+}
